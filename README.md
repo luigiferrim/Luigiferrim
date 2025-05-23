@@ -9,33 +9,34 @@
 
 ### 🚀 Projetos em andamento
 
-- 🔢 [Verificador de Números Primos](https://github.com/Luigiferrim/verificador-numeros-primos): projeto simples em Python para praticar lógica e funções
-- 📚 Projetos acadêmicos da graduação na UFSC (em breve!)
+- 🏛️ [Site institucional para escritório de advocacia](https://ferrimainesefernandes.com): projeto completo com Next.js, Tailwind e deploy na Vercel.  
+- 📚 Projetos acadêmicos da graduação na UFSC (em breve!)  
 - 🧠 Estudos e experimentos com dados e inteligência artificial (em construção)
 
 ---
 
 ### 📚 O que estou estudando agora
 
-- Algoritmos e lógica de programação com Python
+- Algoritmos e lógica de programação com Python  
 - Fundamentos de ciência de dados e IA
-- Git e versionamento de código
+- Front-End 
+- Git e versionamento de código  
 - Introdução à cibersegurança
 
 ---
 
 ### 💡 Interesses futuros
 
-- Engenharia de dados e machine learning
-- Segurança da informação
-- Inteligência artificial aplicada
+- Engenharia de dados e machine learning  
+- Segurança da informação  
+- Inteligência artificial aplicada  
 - Cloud computing e automações
 
 ---
 
 ### 📫 Vamos nos conectar?
 
-- [LinkedIn](https://www.linkedin.com/in/luigi-ferri-maines-498ba4361)
+- [LinkedIn](https://www.linkedin.com/in/luigi-ferri-maines-498ba4361)  
 - 📧 E-mail: luigiferrimaines@gmail.com
 
 ---
