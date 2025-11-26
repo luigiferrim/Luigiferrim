@@ -5,7 +5,7 @@
   </p>
   
   <p>
-    <a href="https://github.com/luigiferrim/nome-do-repo-dashboard">
+    <a href="https://github.com/luigiferrim/dashboard">
       <img src="https://img.shields.io/badge/-Latest_Build:_Stock_Management_System-000?style=flat&logo=next.js&logoColor=white" alt="Stock System" />
     </a>
     <a href="https://github.com/luigiferrim/cafe-landing">
@@ -73,14 +73,6 @@ Meu objetivo é unir a precisão da **Garantia de Qualidade** com a criatividade
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=luigiferrim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigiferrim&layout=compact&theme=dracula"/>
-</div>
-
----
 
 <div align="center">
 
