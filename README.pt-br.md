@@ -62,6 +62,11 @@ Meu objetivo é unir a precisão da **Garantia de Qualidade** com a criatividade
 * **Tech:** Next.js 15, TypeScript, Neon PostgreSQL (Serverless), NextAuth, Tailwind v4.
 * **Features:** Métricas em tempo real, auditoria de logs, autenticação segura e gráficos financeiros.
 
+#### 🐍 [Sistema CaFerri](https://github.com/salmoriadev/Sistema_CaFerri)
+*Sistema desktop de gestão para cafeteria especializada construído com Python puro.*
+* **Tech:** Python 3, Arquitetura MVC, FreeSimpleGUI.
+* **Destaque:** Implementa padrão MVC rigoroso, persistência em arquivos e segurança SHA-256.
+
 #### ☕ [Coxilha Coffee Club](https://github.com/luigiferrim/cafe-landing)
 *Landing page conceitual para assinatura de cafés especiais com estética "rústico-urbana".*
 * **Tech:** React, Tailwind CSS, Vercel v0.
