@@ -64,6 +64,11 @@ My goal is to combine the precision of **Quality Assurance** with the creativity
 * **Tech:** Next.js 15, TypeScript, Neon PostgreSQL (Serverless), NextAuth, Tailwind v4.
 * **Features:** Real-time metrics, audit logging, secure auth, and financial charting.
 
+#### 🐍 [CaFerri E-commerce System](https://github.com/salmoriadev/Sistema_CaFerri)
+*Desktop management system for a specialty coffee shop built with pure Python.*
+* **Tech:** Python 3, MVC Architecture, FreeSimpleGUI.
+* **Highlight:** Implements strict MVC patterns, file persistence, and SHA-256 security.
+
 #### ☕ [Coxilha Coffee Club](https://github.com/luigiferrim/cafe-landing)
 *Conceptual landing page for specialty coffee subscriptions with a "rustic-urban" aesthetic.*
 * **Tech:** React, Tailwind CSS, Vercel v0.
