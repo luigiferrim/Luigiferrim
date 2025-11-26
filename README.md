@@ -59,7 +59,7 @@ My goal is to combine the precision of **Quality Assurance** with the creativity
 
 ### 🚀 Featured Projects
 
-#### 📊 [Stock Management Dashboard](https://github.com/luigiferrim/SEU-REPOSITORIO-DO-DASHBOARD) *(Highlight)*
+#### 📊 [Stock Management Dashboard](https://github.com/luigiferrim/dashboard) *(Highlight)*
 *Full-Stack inventory management & financial analysis system.*
 * **Tech:** Next.js 15, TypeScript, Neon PostgreSQL (Serverless), NextAuth, Tailwind v4.
 * **Features:** Real-time metrics, audit logging, secure auth, and financial charting.
