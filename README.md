@@ -7,7 +7,7 @@
   </p>
   
   <p>
-    <a href="https://github.com/luigiferrim/SEU-REPOSITORIO-DO-DASHBOARD">
+    <a href="https://github.com/luigiferrim/dashboard">
       <img src="https://img.shields.io/badge/-Latest_Build:_Stock_Management_System-000?style=flat&logo=next.js&logoColor=white" alt="Stock System" />
     </a>
     <a href="https://github.com/luigiferrim/cafe-landing">
