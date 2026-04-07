@@ -3,7 +3,7 @@
 <div align="center">
   <h1>👋 Hi, I'm Luigi Ferri Maines!</h1>
   <p>
-    <strong>Information Systems Student @ UFSC | QA Analyst | Full-Stack Aspirant</strong>
+    <strong>Information Systems Student @ UFSC | QA Analyst @ Labtrans | Full-Stack Developer</strong>
   </p>
   
   <p>
@@ -20,13 +20,13 @@
 
 ### 👨‍💻 About Me
 
-I am a 19-year-old **Information Systems student at UFSC** (Brazil) with a passion for turning coffee into code. Currently, I work professionally as a **QA Analyst & Tester (Scholarship)** at a research lab, while building modern Full-Stack applications on the side.
+[cite_start]I am an **Information Systems student at UFSC** [cite: 32] [cite_start]and a **QA Analyst** currently working on large-scale government critical systems (**Monitora SP**)[cite: 13, 26]. [cite_start]My expertise lies in bridging the gap between software quality and development, ensuring application stability through automation and deep root cause analysis[cite: 27, 28].
 
-My goal is to combine the precision of **Quality Assurance** with the creativity of **Web Development**, aiming for an international career in Europe.
+[cite_start]With a background in cultural immersion in **France**[cite: 38], I combine technical precision with a global mindset, aiming for high-impact roles in the international tech scene.
 
-* 🌍 **Languages:** Portuguese (Native) | English (Fluent) | French (Advanced)
-* 📍 **Location:** Florianópolis, SC - Brazil
-* 🎯 **Current Focus:** Next.js 15, TypeScript, Cloud Databases & Cybersec.
+* [cite_start]🌍 **Languages:** Portuguese (Native) [cite: 8] | [cite_start]French (Fluent/Full Professional) [cite: 8, 29] | [cite_start]English (Advanced) [cite: 8, 29]
+* [cite_start]📍 **Location:** Florianópolis, SC - Brazil [cite: 2]
+* [cite_start]🎯 **Current Focus:** Test Automation (Playwright/C#) [cite: 5, 14][cite_start], Next.js 15 & Scalable Web Architectures[cite: 7, 19].
 
 ---
 
@@ -34,49 +34,44 @@ My goal is to combine the precision of **Quality Assurance** with the creativity
 
 <div align="center">
 
-  **Front-End**
+  **Quality Assurance**
   <br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Grey_Box_Testing-444444?style=for-the-badge" alt="Grey Box" />
 
-  **Back-End & Data**
+  **Development & Data**
   <br>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
-  
-  **Tools & QA**
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Professional Highlight
 
-#### 📊 [Stock Management Dashboard](https://github.com/luigiferrim/dashboard) *(Highlight)*
+[cite_start]**QA Analyst at Labtrans/UFSC (Monitora SP Project)** [cite: 11, 13]
+* [cite_start]Developing automated test suites using **Playwright and C#** to validate critical business rules[cite: 14].
+* [cite_start]Performing **Grey Box** analysis through code and log reading to accelerate bug fixes[cite: 16].
+* [cite_start]Ensuring quality for government-level mobility management systems[cite: 13, 26].
+
+---
+
+### 📊 Featured Projects
+
+#### [cite_start][Stock Management Dashboard](https://github.com/luigiferrim/dashboard) *(Personal)* [cite: 19]
 *Full-Stack inventory management & financial analysis system.*
-* **Tech:** Next.js 15, TypeScript, Neon PostgreSQL (Serverless), NextAuth, Tailwind v4.
-* **Features:** Real-time metrics, audit logging, secure auth, and financial charting.
+* [cite_start]**Tech:** Next.js 15, TypeScript, Tailwind v4, PostgreSQL[cite: 19].
+* [cite_start]**Features:** Real-time metrics, audit logging, and AI-assisted code review for security[cite: 19, 20].
 
-#### 🐍 [CaFerri E-commerce System](https://github.com/salmoriadev/Sistema_CaFerri)
-*Desktop management system for a specialty coffee shop built with pure Python.*
-* **Tech:** Python 3, MVC Architecture, FreeSimpleGUI.
-* **Highlight:** Implements strict MVC patterns, file persistence, and SHA-256 security.
-
-#### ☕ [Coxilha Coffee Club](https://github.com/luigiferrim/cafe-landing)
-*Conceptual landing page for specialty coffee subscriptions with a "rustic-urban" aesthetic.*
-* **Tech:** React, Tailwind CSS, Vercel v0.
-* **Status:** Focused on UI/UX and E2E testing implementation.
-
-#### 🏛️ [Ferrimaines & Fernandes Advocacia](https://ferrimainesefernandes.com)
-*Live institutional website for a law firm.*
-* **Tech:** Next.js, Tailwind CSS.
+#### [cite_start][Sistema CaFerri](https://github.com/salmoriadev/Sistema_CaFerri) *(Academic)* [cite: 22]
+*Desktop management system for specialty coffee shops.*
+* [cite_start]**Tech:** Python 3, MVC Architecture, SHA-256[cite: 21].
+* [cite_start]**Focus:** Robust data security and strict architectural patterns[cite: 24].
 
 ---
 
@@ -84,8 +79,7 @@ My goal is to combine the precision of **Quality Assurance** with the creativity
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-ferri-maines-498ba4361)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luigiferrim/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luigi-ferri-maines)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luigiferrimaines@gmail.com)
 
 </div>
