@@ -24,7 +24,7 @@ I am an **Information Systems student at UFSC** and a **QA Analyst** currently w
 
 With a background in cultural immersion in **France**, I combine technical precision with a global mindset, aiming for high-impact roles in the international tech scene.
 
-* 🌍 **Languages:** Portuguese (Native) | French (Fluent) | English (Advanced)
+* 🌍 **Languages:** Portuguese (Native) | French (Fluent) | English (Fluent)
 * 📍 **Location:** Florianópolis, SC - Brazil
 * 🎯 **Current Focus:** Test Automation (Playwright/C#), Next.js 15 & Scalable Web Architectures.
 
@@ -56,8 +56,8 @@ With a background in cultural immersion in **France**, I combine technical preci
 
 **QA Analyst at Labtrans/UFSC (Monitora SP Project)**
 * Developing automated test suites using **Playwright and C#** to validate critical business rules. [cite: 11, 14]
-* [cite_start]Performing **Grey Box** analysis through code and log reading to accelerate bug fixes. [cite: 16]
-* [cite_start]Ensuring quality for government-level mobility management systems. [cite: 13]
+* Performing **Grey Box** analysis through code and log reading to accelerate bug fixes. [cite: 16]
+* Ensuring quality for government-level mobility management systems. [cite: 13]
 
 ---
 
@@ -65,13 +65,13 @@ With a background in cultural immersion in **France**, I combine technical preci
 
 #### [Stock Management Dashboard](https://github.com/luigiferrim/dashboard) *(Personal)*
 *Full-Stack inventory management & financial analysis system.*
-* [cite_start]**Tech:** Next.js 15, TypeScript, Tailwind v4, PostgreSQL. [cite: 19]
-* [cite_start]**Features:** Real-time metrics, audit logging, and AI-assisted code review for security. [cite: 19, 20]
+* **Tech:** Next.js 15, TypeScript, Tailwind v4, PostgreSQL. [cite: 19]
+* **Features:** Real-time metrics, audit logging, and AI-assisted code review for security. [cite: 19, 20]
 
 #### [Sistema CaFerri](https://github.com/salmoriadev/Sistema_CaFerri) *(Academic)*
 *Desktop management system for specialty coffee shops.*
-* [cite_start]**Tech:** Python 3, MVC Architecture, SHA-256. [cite: 21]
-* [cite_start]**Focus:** Robust data security and strict architectural patterns. [cite: 24]
+* **Tech:** Python 3, MVC Architecture, SHA-256. [cite: 21]
+* **Focus:** Robust data security and strict architectural patterns. [cite: 24]
 
 ---
 
