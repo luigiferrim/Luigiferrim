@@ -20,13 +20,13 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am an **Information Systems student at UFSC** [cite: 32] [cite_start]and a **QA Analyst** currently working on large-scale government critical systems (**Monitora SP**)[cite: 13, 26]. [cite_start]My expertise lies in bridging the gap between software quality and development, ensuring application stability through automation and deep root cause analysis[cite: 27, 28].
+I am an **Information Systems student at UFSC** and a **QA Analyst** currently working on large-scale government critical systems (**Monitora SP**). My expertise lies in bridging the gap between software quality and development, ensuring application stability through automation and deep root cause analysis.
 
-[cite_start]With a background in cultural immersion in **France**[cite: 38], I combine technical precision with a global mindset, aiming for high-impact roles in the international tech scene.
+With a background in cultural immersion in **France**, I combine technical precision with a global mindset, aiming for high-impact roles in the international tech scene.
 
-* [cite_start]🌍 **Languages:** Portuguese (Native) [cite: 8] | [cite_start]French (Fluent/Full Professional) [cite: 8, 29] | [cite_start]English (Advanced) [cite: 8, 29]
-* [cite_start]📍 **Location:** Florianópolis, SC - Brazil [cite: 2]
-* [cite_start]🎯 **Current Focus:** Test Automation (Playwright/C#) [cite: 5, 14][cite_start], Next.js 15 & Scalable Web Architectures[cite: 7, 19].
+* 🌍 **Languages:** Portuguese (Native) | French (Fluent) | English (Advanced)
+* 📍 **Location:** Florianópolis, SC - Brazil
+* 🎯 **Current Focus:** Test Automation (Playwright/C#), Next.js 15 & Scalable Web Architectures.
 
 ---
 
@@ -54,24 +54,24 @@
 
 ### 🚀 Professional Highlight
 
-[cite_start]**QA Analyst at Labtrans/UFSC (Monitora SP Project)** [cite: 11, 13]
-* [cite_start]Developing automated test suites using **Playwright and C#** to validate critical business rules[cite: 14].
-* [cite_start]Performing **Grey Box** analysis through code and log reading to accelerate bug fixes[cite: 16].
-* [cite_start]Ensuring quality for government-level mobility management systems[cite: 13, 26].
+**QA Analyst at Labtrans/UFSC (Monitora SP Project)**
+* Developing automated test suites using **Playwright and C#** to validate critical business rules. [cite: 11, 14]
+* [cite_start]Performing **Grey Box** analysis through code and log reading to accelerate bug fixes. [cite: 16]
+* [cite_start]Ensuring quality for government-level mobility management systems. [cite: 13]
 
 ---
 
 ### 📊 Featured Projects
 
-#### [cite_start][Stock Management Dashboard](https://github.com/luigiferrim/dashboard) *(Personal)* [cite: 19]
+#### [Stock Management Dashboard](https://github.com/luigiferrim/dashboard) *(Personal)*
 *Full-Stack inventory management & financial analysis system.*
-* [cite_start]**Tech:** Next.js 15, TypeScript, Tailwind v4, PostgreSQL[cite: 19].
-* [cite_start]**Features:** Real-time metrics, audit logging, and AI-assisted code review for security[cite: 19, 20].
+* [cite_start]**Tech:** Next.js 15, TypeScript, Tailwind v4, PostgreSQL. [cite: 19]
+* [cite_start]**Features:** Real-time metrics, audit logging, and AI-assisted code review for security. [cite: 19, 20]
 
-#### [cite_start][Sistema CaFerri](https://github.com/salmoriadev/Sistema_CaFerri) *(Academic)* [cite: 22]
+#### [Sistema CaFerri](https://github.com/salmoriadev/Sistema_CaFerri) *(Academic)*
 *Desktop management system for specialty coffee shops.*
-* [cite_start]**Tech:** Python 3, MVC Architecture, SHA-256[cite: 21].
-* [cite_start]**Focus:** Robust data security and strict architectural patterns[cite: 24].
+* [cite_start]**Tech:** Python 3, MVC Architecture, SHA-256. [cite: 21]
+* [cite_start]**Focus:** Robust data security and strict architectural patterns. [cite: 24]
 
 ---
 
