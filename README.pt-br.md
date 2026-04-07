@@ -22,7 +22,7 @@ Sou estudante de **Sistemas de Informação na UFSC** e **Analista de QA** com a
 
 Com experiência de imersão cultural na **França**, busco combinar precisão técnica com uma mentalidade global, visando uma carreira internacional de alto impacto.
 
-* 🌍 **Idiomas:** Português (Nativo) | Francês (Fluente) | Inglês (Avançado)
+* 🌍 **Idiomas:** Português (Nativo) | Francês (Fluente) | Inglês (Fluente)
 * 📍 **Localização:** Florianópolis, SC - Brasil
 * 🎯 **Foco Atual:** Automação de Testes (Playwright/C#), Next.js 15 e Arquiteturas Web Escaláveis.
 
