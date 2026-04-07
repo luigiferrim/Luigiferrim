@@ -1,5 +1,3 @@
-[🇧🇷 Leia em Português](README.pt-br.md)
-
 <div align="center">
   <h1>👋 Hi, I'm Luigi Ferri Maines!</h1>
   <p>
@@ -55,9 +53,9 @@ With a background in cultural immersion in **France**, I combine technical preci
 ### 🚀 Professional Highlight
 
 **QA Analyst at Labtrans/UFSC (Monitora SP Project)**
-* Developing automated test suites using **Playwright and C#** to validate critical business rules. [cite: 11, 14]
-* Performing **Grey Box** analysis through code and log reading to accelerate bug fixes. [cite: 16]
-* Ensuring quality for government-level mobility management systems. [cite: 13]
+* Developing automated test suites using **Playwright and C#** to validate critical business rules.
+* Performing **Grey Box** analysis through code and log reading to accelerate bug fixes.
+* Ensuring quality for government-level mobility management systems.
 
 ---
 
@@ -65,13 +63,15 @@ With a background in cultural immersion in **France**, I combine technical preci
 
 #### [Stock Management Dashboard](https://github.com/luigiferrim/dashboard) *(Personal)*
 *Full-Stack inventory management & financial analysis system.*
-* **Tech:** Next.js 15, TypeScript, Tailwind v4, PostgreSQL. [cite: 19]
-* **Features:** Real-time metrics, audit logging, and AI-assisted code review for security. [cite: 19, 20]
+* **Tech:** Next.js 15, TypeScript, Tailwind v4, PostgreSQL.
+
+#### [Coxilha Coffee Club](https://github.com/luigiferrim/cafe-landing) *(Design & UX)*
+*Conceptual landing page for specialty coffee subscriptions with a "rustic-urban" aesthetic.*
+* **Tech:** React, Tailwind CSS, Vercel v0.
 
 #### [Sistema CaFerri](https://github.com/salmoriadev/Sistema_CaFerri) *(Academic)*
-*Desktop management system for specialty coffee shops.*
-* **Tech:** Python 3, MVC Architecture, SHA-256. [cite: 21]
-* **Focus:** Robust data security and strict architectural patterns. [cite: 24]
+*Desktop management system for specialty coffee shops with MVC architecture.*
+* **Tech:** Python 3, FreeSimple GUI, SHA-256.
 
 ---
 
