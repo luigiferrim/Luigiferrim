@@ -61,8 +61,8 @@ With a background in cultural immersion in **France**, I combine technical preci
 
 ### 📊 Featured Projects
 
-#### [Stock Management Dashboard](https://github.com/luigiferrim/dashboard) *(Personal)*
-*Full-Stack inventory management & financial analysis system.*
+#### [Stock Management Dashboard](https://github.com/luigiferrim/stock_finance_management_system) *(Personal)*
+*Full-Stack inventory management & financial analysis system for coffee roasters.*
 * **Tech:** Next.js 15, TypeScript, Tailwind v4, PostgreSQL.
 
 #### [Coxilha Coffee Club](https://github.com/luigiferrim/cafe-landing) *(Design & UX)*
