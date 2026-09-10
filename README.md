@@ -95,7 +95,8 @@ The rule it will not break: **the system proposes, the lawyer approves.** No ext
 
 * **Engineering worth reading:** append-only audit enforced by a database trigger; idempotency keys written *before* the external call; a failed collection returns `incomplete`, so "0 items" never becomes "nothing exists"; secrets in the OS keychain; recursive log sanitization; a hermeticity test that fails the build if any real term from the local config leaks into the repo.
 * **Triage is deterministic, not AI.** Every card states which signals classified it. No "the model thought it was urgent."
-* **Tech:** Node.js 22, **zero npm dependencies** (native modules only, including `node:sqlite` and `node:test`), SQLite with `STRICT` tables, Google Apps Script, launchd. 112 hermetic tests.
+* **CI as a gate, not a badge:** GitHub Actions runs the suite, a zero-dependency linter and a leak audit over the tree and the *entire git history*; any real case number, bar ID, e-mail or secret fails the build, and the report comes out redacted because the log is public.
+* **Tech:** Node.js 22, **zero npm dependencies** (native modules only, including `node:sqlite` and `node:test`), SQLite with `STRICT` tables, Google Apps Script, launchd. 131 hermetic tests.
 
 #### [Stockfee](https://github.com/luigiferrim/stock_finance_management_system) — *coffee management system (team project, UFSC)*
 A full inventory and financial management system for coffee shops and roasters, built with three teammates for a web development course and deployed to production. Goal: turn it into a real SaaS.

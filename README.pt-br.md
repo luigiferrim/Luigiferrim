@@ -95,7 +95,8 @@ A regra que não se negocia: **o sistema propõe, a advogada aprova.** Nenhuma a
 
 * **Decisões de engenharia que valem a leitura:** auditoria append-only garantida por trigger de banco; chave de idempotência gravada *antes* da chamada externa; coleta que falha no meio volta `incompleto`, para que "0 itens" nunca vire "não há nada"; segredos no Keychain do sistema; sanitização recursiva de logs; e um teste de hermetismo que quebra o build se algum termo real do config local vazar para o repositório.
 * **A triagem é determinística, não é IA.** Cada cartão diz quais sinais o classificaram. Nada de "o modelo achou que era urgente".
-* **Tech:** Node.js 22, **zero dependências npm** (só módulos nativos, incluindo `node:sqlite` e `node:test`), SQLite com tabelas `STRICT`, Google Apps Script, launchd. 112 testes herméticos.
+* **CI como portão, não como badge:** o GitHub Actions roda a suíte, um lint sem dependência e uma auditoria de vazamento sobre a árvore e o *histórico inteiro do git*; qualquer número de processo real, OAB, e-mail ou segredo derruba o build, e o relatório sai redigido porque o log é público.
+* **Tech:** Node.js 22, **zero dependências npm** (só módulos nativos, incluindo `node:sqlite` e `node:test`), SQLite com tabelas `STRICT`, Google Apps Script, launchd. 131 testes herméticos.
 
 #### [Stockfee](https://github.com/luigiferrim/stock_finance_management_system) — *sistema de gestão para cafeterias (projeto em equipe, UFSC)*
 Sistema completo de estoque e gestão financeira para cafeterias e torrefações, construído com mais três colegas para a disciplina de desenvolvimento web e publicado em produção. Objetivo: transformar em um SaaS de verdade.
