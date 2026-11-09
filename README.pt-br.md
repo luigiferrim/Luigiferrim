@@ -35,7 +35,7 @@ Fora do trabalho eu construo e publico coisas. A que mais me orgulha é um assis
 * 🌍 **Idiomas:** Português (nativo) · Inglês (fluente) · Francês (fluente)
 * 📍 **Localização:** Florianópolis, SC — Brasil
 * 🇮🇹 **Cidadania italiana** — autorização de trabalho na União Europeia
-* 🎯 **Foco:** Automação de testes (Playwright / C#), engenharia de backend (Node.js, TypeScript) e sistemas agênticos com aprovação humana no fluxo
+* 🎯 **Foco:** Automação de testes (Playwright / C#), engenharia de backend (Node.js, TypeScript) e IA aplicada: sistemas agênticos com aprovação humana no fluxo, comparados com alternativas mais simples antes de ir para produção
 
 ---
 
@@ -77,6 +77,8 @@ Fora do trabalho eu construo e publico coisas. A que mais me orgulha é um assis
 * Testo o backend em Java/Spring Boot, as APIs REST e o aplicativo Flutter de uma plataforma com mais de 18 milhões de downloads, feita com o Ministério da Educação.
 * Analiso a suíte manual existente e conduzo sua migração para testes escritos em código.
 * Valido o estado persistido direto no banco com SQL, em vez de confiar no que a interface mostra.
+* Antes da release de um módulo novo em Oracle/Liquibase, reportei **1 defeito e 5 riscos de banco**; no front-end React do mesmo módulo, escrevi **67 casos para 2 telas** e encontrei **3 defeitos e 1 lacuna de requisito**.
+* Trouxe IA para o QA por iniciativa própria: revisão exploratória do código com Claude Code, reproduzindo cada achado localmente antes de reportar.
 
 **QA Analyst — LabTrans/UFSC (Monitora SP)** *(jul/2025 – jun/2026)*
 * Construí um framework de automação do zero em **Playwright + C#**, estruturado em Page Object Model cobrindo **mais de 50 fluxos de telas e arquivos**.
@@ -97,6 +99,12 @@ A regra que não se negocia: **o sistema propõe, a advogada aprova.** Nenhuma a
 * **A triagem é determinística, não é IA.** Cada cartão diz quais sinais o classificaram. Nada de "o modelo achou que era urgente".
 * **CI como portão, não como badge:** o GitHub Actions roda a suíte, um lint sem dependência e uma auditoria de vazamento sobre a árvore e o *histórico inteiro do git*; qualquer número de processo real, OAB, e-mail ou segredo derruba o build, e o relatório sai redigido porque o log é público.
 * **Tech:** Node.js 22, **zero dependências npm** (só módulos nativos, incluindo `node:sqlite` e `node:test`), SQLite com tabelas `STRICT`, Google Apps Script, launchd. 131 testes herméticos.
+
+#### Lastro — *conciliação de pagamentos em stablecoin para contadores (MVP, repositório privado)*
+Importadores brasileiros pagam fornecedores no exterior em USDT, e o contador cruza à mão, em planilha, o extrato da mesa de câmbio, as transferências e as invoices. Escolhi esse problema depois de comparar 20 ideias de negócio.
+* **Construído com IA, verificado por desenho:** escrevi a especificação e os critérios de aceite e orquestrei **6 agentes do Claude Code em 7 marcos**: três constroem, um testa, um confere conformidade e **um verificador independente aprova cada marco** contra **14 casos de referência travados por hash antes de existir código**.
+* **Senso crítico:** revisei cada entrega e barrei defeitos que os próprios agentes tinham aprovado, entre eles um alerta antifraude que não pegava o padrão de pagamento mais comum dos clientes-alvo (30% antecipado + 70% depois).
+* **Risco de negócio primeiro:** ao achar uma zona cinzenta regulatória, congelei o código e priorizei parecer jurídico e entrevistas com contadores. Demo sob pedido.
 
 #### [Stockfee](https://github.com/luigiferrim/stock_finance_management_system) — *sistema de gestão para cafeterias (projeto em equipe, UFSC)*
 Sistema completo de estoque e gestão financeira para cafeterias e torrefações, construído com mais três colegas para a disciplina de desenvolvimento web e publicado em produção. Objetivo: transformar em um SaaS de verdade.

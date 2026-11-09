@@ -35,7 +35,7 @@ On the side I build and ship things. The one I'm proudest of is an agentic legal
 * 🌍 **Languages:** Portuguese (native) · English (fluent) · French (fluent)
 * 📍 **Location:** Florianópolis, SC — Brazil *(GMT-3, full overlap with US hours)*
 * 🇮🇹 **Work authorization:** Italian citizen — EU work authorization, no sponsorship needed
-* 🎯 **Focus:** Test automation (Playwright / C#), backend engineering (Node.js, TypeScript), and agentic systems with human-in-the-loop design
+* 🎯 **Focus:** Test automation (Playwright / C#), backend engineering (Node.js, TypeScript), and applied AI: agentic systems with human-in-the-loop design, measured against simpler alternatives before they ship
 
 ---
 
@@ -77,6 +77,8 @@ On the side I build and ship things. The one I'm proudest of is an agentic legal
 * Testing the Java/Spring Boot backend, REST APIs and Flutter app of a platform with 18M+ downloads, built with Brazil's Ministry of Education.
 * Auditing the existing manual suite and leading its migration into code-based automation.
 * Validating persisted state directly in SQL instead of trusting the interface.
+* Before the release of a new Oracle/Liquibase module, reported **1 defect and 5 database risks**; on its React front end, wrote **67 cases for 2 screens** and caught **3 defects and 1 requirements gap**.
+* Brought AI into QA on my own initiative: exploratory code review with Claude Code, reproducing every finding locally before reporting it.
 
 **QA Analyst — LabTrans/UFSC (Monitora SP)** *(Jul 2025 – Jun 2026)*
 * Built an automation framework from scratch in **Playwright + C#**, structured in Page Object Model across **50+ screen and file flows**.
@@ -97,6 +99,12 @@ The rule it will not break: **the system proposes, the lawyer approves.** No ext
 * **Triage is deterministic, not AI.** Every card states which signals classified it. No "the model thought it was urgent."
 * **CI as a gate, not a badge:** GitHub Actions runs the suite, a zero-dependency linter and a leak audit over the tree and the *entire git history*; any real case number, bar ID, e-mail or secret fails the build, and the report comes out redacted because the log is public.
 * **Tech:** Node.js 22, **zero npm dependencies** (native modules only, including `node:sqlite` and `node:test`), SQLite with `STRICT` tables, Google Apps Script, launchd. 131 hermetic tests.
+
+#### Lastro — *stablecoin payment reconciliation for accountants (MVP, private repo)*
+Brazilian importers pay foreign suppliers in USDT, and their accountants reconcile exchange statements, transfers and invoices by hand in spreadsheets. I picked this problem after comparing 20 business ideas.
+* **Built with AI, verified by design:** I wrote the spec and acceptance criteria and orchestrated **6 Claude Code agents over 7 milestones**: three build, one tests, one reviews compliance and **an independent verifier approves each milestone** against **14 reference cases locked by hash before any code existed**.
+* **Critical judgment:** I reviewed every delivery and blocked defects the agents themselves had approved, including a fraud alert blind to the most common payment pattern among target clients (30% upfront + 70% later).
+* **Business risk first:** on finding a regulatory gray area, I froze the code and prioritized a legal opinion and interviews with accountants. Demo available on request.
 
 #### [Stockfee](https://github.com/luigiferrim/stock_finance_management_system) — *coffee management system (team project, UFSC)*
 A full inventory and financial management system for coffee shops and roasters, built with three teammates for a web development course and deployed to production. Goal: turn it into a real SaaS.
