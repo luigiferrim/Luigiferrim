@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/-Stockfee:_Gestão_para_Cafeterias-000?style=flat&logo=next.js&logoColor=white" alt="Stockfee" />
     </a>
     <a href="https://github.com/luigiferrim/cafe-landing">
-      <img src="https://img.shields.io/badge/-Coxilha:_Minha_marca_de_café-6F4E37?style=flat&logo=buymeacoffee&logoColor=white" alt="Coxilha" />
+      <img src="https://img.shields.io/badge/-Coxilha:_Landing_page_de_café-6F4E37?style=flat&logo=buymeacoffee&logoColor=white" alt="Coxilha" />
     </a>
   </p>
 </div>
@@ -112,7 +112,7 @@ Sistema completo de estoque e gestão financeira para cafeterias e torrefações
 * **Tech:** Next.js, TypeScript, PostgreSQL (Neon), NextAuth, Tailwind, Vercel.
 
 #### [Coxilha](https://github.com/luigiferrim/cafe-landing) — *landing page de café especial (solo)*
-Landing page que construí sozinho para vender café especial, com foco em front-end limpo e design responsivo.
+Landing page que construí sozinho para uma marca conceitual de assinatura de café especial, com foco em front-end limpo e design responsivo.
 * **Tech:** React, Tailwind CSS, Vercel.
 
 #### [Sistema CaFerri](https://github.com/salmoriadev/Sistema_CaFerri) — *sistema desktop para cafeteria (equipe, acadêmico)*

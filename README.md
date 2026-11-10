@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/badge/-Stockfee:_Coffee_Management_System-000?style=flat&logo=next.js&logoColor=white" alt="Stockfee" />
     </a>
     <a href="https://github.com/luigiferrim/cafe-landing">
-      <img src="https://img.shields.io/badge/-Coxilha:_My_Coffee_Brand-6F4E37?style=flat&logo=buymeacoffee&logoColor=white" alt="Coxilha" />
+      <img src="https://img.shields.io/badge/-Coxilha:_Coffee_Landing_Page-6F4E37?style=flat&logo=buymeacoffee&logoColor=white" alt="Coxilha" />
     </a>
   </p>
 </div>
@@ -112,7 +112,7 @@ A full inventory and financial management system for coffee shops and roasters, 
 * **Tech:** Next.js, TypeScript, PostgreSQL (Neon), NextAuth, Tailwind, Vercel.
 
 #### [Coxilha](https://github.com/luigiferrim/cafe-landing) — *coffee sales landing page (solo)*
-A landing page I built on my own to sell specialty coffee, focused on a clean front-end and responsive design.
+A landing page I built on my own for a conceptual specialty coffee subscription brand, focused on a clean front-end and responsive design.
 * **Tech:** React, Tailwind CSS, Vercel.
 
 #### [Sistema CaFerri](https://github.com/salmoriadev/Sistema_CaFerri) — *coffee shop desktop system (team, academic)*
